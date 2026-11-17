@@ -52,6 +52,9 @@
 - [TechTester Controller Vibration Test](https://techtester.online/controller-vibration-test/) 
   — Test PS5 haptic feedback and Xbox rumble motors in Chrome or Edge.
 
+- [GamepadTesterPro](https://www.gamepadtesterpro.com)
+  — Free browser-based gamepad tester — checks buttons, sticks, triggers, stick drift, deadzone and vibration via the Gamepad API, no install.
+
 ## Why browser-based tools matter
 
 Browser-based tools process everything client-side using Web APIs:
