@@ -52,6 +52,10 @@
 - [TechTester Controller Vibration Test](https://techtester.online/controller-vibration-test/) 
   — Test PS5 haptic feedback and Xbox rumble motors in Chrome or Edge.
 
+## JSON and Data Tools
+
+- [BestJSON](https://bestjson.com/) — Format, validate, preview repairs and compare JSON locally without an account; uses Web Workers and TextEncoder.
+
 ## Why browser-based tools matter
 
 Browser-based tools process everything client-side using Web APIs:
